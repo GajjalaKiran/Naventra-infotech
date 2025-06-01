@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# dotenv files
+.env
+
+# Build folders
+/build
+/dist
+
+# OS
+.DS_Store
+Thumbs.db
